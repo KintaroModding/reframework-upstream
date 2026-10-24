@@ -1,0 +1,36 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "REFramework (nightly)",
+  "summary": "Mod loader, scripting platform and VR support for RE Engine games. The latest nightly build from praydog's CI.",
+  "games": [
+    "resident-evil-2",
+    "resident-evil-3",
+    "resident-evil-4",
+    "resident-evil-7-biohazard",
+    "resident-evil-village",
+    "resident-evil-requiem",
+    "devil-may-cry-5",
+    "street-fighter-6",
+    "monster-hunter-rise",
+    "monster-hunter-wilds",
+    "monster-hunter-stories-3-twisted-reflection",
+    "dragons-dogma-2",
+    "dead-rising-deluxe-remaster",
+    "ghosts-n-goblins-resurrection",
+    "apollo-justice-ace-attorney-trilogy",
+    "kunitsu-gami-path-of-the-goddess",
+    "onimusha-2-samurais-destiny",
+    "onimusha-way-of-the-sword",
+    "mega-man-star-force-legacy-collection"
+  ],
+  "tags": ["tools", "library"],
+  "links": {
+    "website": "https://refdocs.praydog.com",
+    "support": "https://github.com/praydog/REFramework/issues"
+  },
+  "upstream": {
+    "source": "praydog/REFramework",
+    "releases": "praydog/REFramework-nightly"
+  }
+}
