@@ -25,6 +25,7 @@
     "mega-man-star-force-legacy-collection"
   ],
   "tags": ["tools", "library"],
+  "cover": "docs/cover.png",
   "links": {
     "website": "https://refdocs.praydog.com",
     "support": "https://github.com/praydog/REFramework/issues"

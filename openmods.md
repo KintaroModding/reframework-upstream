@@ -26,6 +26,10 @@ need it. Its README lists:
 The downloads here are **nightly developer builds**: newer than the last stable release, but less tested. The stable
 builds are on the [REFramework releases page](https://github.com/praydog/REFramework/releases).
 
+## Screenshots
+
+![REFramework (nightly)](docs/cover.png)
+
 ## Downloads
 
 The latest nightly release has three files:
